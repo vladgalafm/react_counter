@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css","Counter.css"],"names":[],"mappings":"AAAA,KACE,sCACF,CCFA,QACE,cAAe,CACf,cACF","file":"main.7bf4cb79.chunk.css","sourcesContent":["body {\r\n  font-family: \"Comic Sans MS\", sans-serif;\r\n}\r\n",".button {\r\n  font-size: 24px;\r\n  cursor: pointer;\r\n}\r\n"]}
